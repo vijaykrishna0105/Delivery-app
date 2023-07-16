@@ -74,7 +74,7 @@ header {
 .shoppingCart .cart_content {
   width: 20px;
   height: 20px;
-  background: #f8901c;
+  background:rgba(11,156,49,0.8);
   border-radius: 100%;
   min-width: 20px;
   min-height: 20px;
@@ -89,6 +89,7 @@ header {
 .shoppingCart .cart_content p {
   font-weight: 500;
   color: #faf9fb;
+  
 }
 
 .shoppingCart .noCartItem {
@@ -205,7 +206,7 @@ main {
   position: absolute;
   height: 60px;
   width: 60px;
-  background: #f8901c;
+  background: #008000;
   top: -50%;
   border-radius: 50%;
   border: 6px solid #faf9fb;
